@@ -1,0 +1,22 @@
+[
+        {
+        "nama" : "andika",
+        "umur" : 18,
+        "alamat" : "kp curug agung",
+        "hobby" : [
+            "gaming",
+            "coding"
+        ]
+    },
+
+    {
+        "nama" : "ramdani",
+        "umur" : 20,
+        "alamat" : "cikamuning",
+        "hobby" : [
+            "gaming",
+            "coding"
+        ]
+    }
+
+]
